@@ -1,501 +1,500 @@
-{ 
-    "status": "ok",
-    "totalResults": 38,
-    "articles": [
-      {
-        "source": {
-          "id": null,
-          "name": "India Today"
-        },
-        "author": "India Today News Desk",
-        "title": "Woman’s stunt ends in death, man filming reel screams as car falls into valley - India Today",
-        "description": "A 23-year-old woman died in Maharashtra after she accidentally pressed the accelerator of the car while the vehicle was in reverse gear and it plunged into a valley The incident happened when her friend was recording a reel of the woman trying her hand at dri…",
-        "url": "https://www.indiatoday.in/india/story/maharashtra-woman-accelerator-mistakenly-car-reverse-gear-plunge-valley-dies-viral-video-recording-video-2554622-2024-06-18",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/maharashtra-woman-car-accident-plunged-valley-viral-video-183309206-16x9_0.png?VersionId=lY6iFC0Sw19y7EJlk3k2C1CzVoAlCz1G",
-        "publishedAt": "2024-06-18T07:37:52Z",
-        "content": "A 23-year-old woman died on Monday after she mistakenly pressed the accelerator of the car while the vehicle was in reverse gear, and it plunged into a valley in Maharashtra, a police official said.\r… [+1078 chars]"
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "HT Sports Desk",
-        "title": "'Never going to be an excuse': Rohit Sharma's India not hiding behind 'hectic' schedule of T20 World Cup West Indies leg - Hindustan Times",
-        "description": "Rohit Sharma is not going to let India's gruelling Super Eight schedule dampen their spirits.  | Crickit",
-        "url": "https://www.hindustantimes.com/cricket/never-going-to-be-an-excuse-rohit-sharmas-india-not-hiding-behind-hectic-schedule-of-t20-world-cup-west-indies-leg-101718694003799.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/18/1600x900/ANI-20240615156-0_1718694171038_1718694247925.jpg",
-        "publishedAt": "2024-06-18T07:13:49Z",
-        "content": "Following a five-day break well, technically eight days, because the Canada game was abandoned Team India will return to action at the T20 World Cup, taking on Afghanistan in their first Super Eight … [+2689 chars]"
+      "author": "NDTV Sports Desk",
+      "title": "India vs Afghanistan LIVE Score, T20 World Cup 2024: After Dropping Big Star, Rohit Sharma Eyes Good Start With Virat Kohli - NDTV Sports",
+      "description": "IND vs AFG LIVE Cricket Score: Virat Kohli and Suryakumar Yadav eye recovery for two-down India against Afghanistan",
+      "url": "https://sports.ndtv.com/t20-world-cup-2024/ind-vs-afg-live-score-43rd-match-t20-world-cup-2024-super-8-group-1-india-vs-afghanistan-live-scorecard-5931008",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/i1ld4ba_virat-kohli_625x300_12_June_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2024-06-20T14:35:56Z",
+      "content": "Afghanistan vs India Live Updates, T20 World Cup 2024: Virat Kohli and Suryakumar Yadav eye recovery for two-down India against Afghanistan in their Super Eight match at Kensington Oval, Barbados. Ro… [+705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
       },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "TOI Tech Desk",
-        "title": "Motorola Edge 50 Ultra with 125W fast charging, 50MP front camera launched in India: Price, offer and mor - The Times of India",
-        "description": "MOBILES & TABLETS News: Motorola has launched its flagship smartphone, the Motorola Edge 50 Ultra, in India. The premium device is powered by a Qualcomm Snapdragon 8s Gen 3 c",
-        "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/motorola-edge-50-ultra-with-125w-fast-charging-50mp-front-camera-launched-in-india-price-offer-and-more/articleshow/111078209.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-111078198,width-1070,height-580,imgsize-42094,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2024-06-18T07:02:00Z",
-        "content": null
+      "author": "HT News Desk",
+      "title": "Modi Kashmir Visit LIVE: ‘We will not hesitate to…,’ PM on J&K terror attacks - Hindustan Times",
+      "description": "Narendra Modi Kashmir visit LIVE: PM Modi is set to commence his two-day visit to Jammu and Kashmir on Thursday, June 20.",
+      "url": "https://www.hindustantimes.com/india-news/narendra-modi-jammu-and-kashmir-srinagar-visit-yoga-day-live-updates-latest-news-today-june-20-101718874273973.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/20/550x309/rg34_1718890781002_1718890799435.png",
+      "publishedAt": "2024-06-20T14:27:15Z",
+      "content": "Narendra Modi Kashmir Visit Live: Prime Minister Narendra Modi on Thursday commenced his two day visit to Jammu and Kashmir. He is visiting the union territory on June 20 and 21, to launch developmen… [+9046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Bar & Bench - Indian Legal News"
-        },
-        "author": "Debayan Roy",
-        "title": "We expect timely action from NTA: Supreme Court on NEET paper leak allegations - Bar & Bench - Indian Legal News",
-        "description": "Amid widespread allegations of paper leak in the National Eligibility cum Entrance Test (NEET) undergraduate exam 2024, the Supreme Court Tuesday said that it w",
-        "url": "https://www.barandbench.com/news/timely-action-nta-supreme-court-neet-paper-leak-allegations",
-        "urlToImage": "https://media.assettype.com/barandbench%2F2024-06%2Fdf7f09cc-7fb3-48f4-8f0a-26aefad95bf9%2F05.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2024-06-18T06:34:02Z",
-        "content": "During the hearing of the petition today, the Centre said no opinion should be formed on the allegations till a proper response is filed in the matter.\r\nHowever, the counsel representing the petition… [+198 chars]"
+      "author": null,
+      "title": "Video: Train Crosses World's Highest Railway Bridge At J&K - NDTV",
+      "description": "The Indian Railways conducted a successful trial run on the world's highest railway bridge in Jammu and Kashmir today. The newly-constructed Chenab railway bridge is built between Sangaldan in Ramban district and Reasi.",
+      "url": "https://www.ndtv.com/india-news/successful-trial-run-conducted-on-worlds-highest-railway-bridge-chenab-5931780",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/4lt19fe8_chenab-bridge-trial-run_625x300_20_June_24.jpeg?ver-20240615.100",
+      "publishedAt": "2024-06-20T13:44:00Z",
+      "content": "The bridge is a structural marvel built 359 metres (around 109 feet) above the Chenab River\r\nThe Indian Railways conducted a successful trial run on the world's highest railway bridge in Jammu and Ka… [+1891 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Zee Business"
-        },
-        "author": "Sirali Gupta",
-        "title": "Hyundai Motor IPO: All details from competition to market share - Zee Business",
-        "description": "Hyundai Motor IPO: According to Zee Business research, Hyundais entry on the bourses will increase competition for various auto players like Maruti Suzuki, Tata Motors, and Mahindra & Mahindra (M&M).",
-        "url": "https://www.zeebiz.com/markets/ipo/news-hyundai-motor-india-ipo-initial-public-offer-competition-tata-motors-mahindra-mahindra-maruti-suzuki-296563",
-        "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/06/18/299970-ge2jan62022010605063620220106053234.jpg",
-        "publishedAt": "2024-06-18T06:30:42Z",
-        "content": "Hyundai Motor IPO: Hyundai Motor India Ltd (HMIL), the Indian arm of South Korean automaker Hyundai, has filed preliminary papers with Sebi to launch an initial public offering (IPO). The company's I… [+3079 chars]"
+      "author": "TOI Lifestyle Desk",
+      "title": "NASA says an asteroid of the size of Eiffel Tower to approach Earth - The Times of India",
+      "description": "In 2029, asteroid 99942 Apophis, roughly the size of the Eiffel Tower, will pass by Earth at a distance of 20,000-30,000 miles. Discovered in 2004, it was initially considered a potential hazard but now poses no risk of impact for the next century. This close…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/nasa-says-an-asteroid-of-the-size-of-eiffel-tower-to-approach-earth/articleshow/111144183.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111144268,width-1070,height-580,imgsize-40528,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20T13:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "India Today"
-        },
-        "author": "Devika Bhattacharya",
-        "title": "Boiling tap water, ACs useless: Delhi residents miserable in blistering heat - India Today",
-        "description": "Delhi residents are turning into human puddles as the capital simmers under an unrelenting heatwave Many took to social media to vent their frustrations and share their struggles",
-        "url": "https://www.indiatoday.in/cities/delhi/story/delhi-heatwave-red-alert-boiling-tap-water-acs-useless-residents-deal-with-extreme-temperatures-2554615-2024-06-18",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/delhi-heatwave-181712156-16x9_0.jpg?VersionId=pS9LdJpBsNdnIqhBtFnRZBJ0R7w.6iJS",
-        "publishedAt": "2024-06-18T06:24:26Z",
-        "content": "Delhi-NCR is in the throes of a merciless summer, with residents turning into human puddles as the unrelenting heatwave shows no signs of abating. The India Meteorological Department (IMD) has issued… [+2374 chars]"
+      "author": "HT Sports Desk",
+      "title": "Sachin Tendulkar, Gautam Gambhir condole tragic death of ex-India pacer David Johnson: 'He was full of life' - Hindustan Times",
+      "description": "Ex-India star David Johnson was found dead outside his apartment. Sachin Tendulkar and Gautam Gambhir have expressed deep sadness over the tragic death. | Crickit",
+      "url": "https://www.hindustantimes.com/cricket/david-johnson-death-sachin-tendulkar-gautam-gambhir-anil-kumble-condole-tragic-demise-ex-india-cricketer-full-of-life-101718882471297.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/20/1600x900/MixCollage-20-Jun-2024-04-39-PM-4174_1718884454948_1718884461709.jpg",
+      "publishedAt": "2024-06-20T11:56:11Z",
+      "content": "Members of the Indian cricket fraternity, including Master Blaster Sachin Tendulkar and former India opener Gautam Gambhir, have expressed deep sadness and shock over the tragic passing away of forme… [+2076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Livemint",
-        "title": "Lok Sabha Speaker elected without contest since Independence. Full details here | Mint - Mint",
-        "description": "The post of Speaker of Central Legislative Assembly saw a contest on 6 occasions between 1925 and 1946. Vitthalbhai Patel was re-elected to the post unanimously in 1927 after the completion of his first term. Patel quit the post on April 28, 1930 after the Ci…",
-        "url": "https://www.livemint.com/politics/lok-sabha-speaker-elected-without-contest-since-independence-nda-vs-india-find-details-in-5-points-11718689785843.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/18/1600x900/PTI09-21-2023-000392A-0_1695374902996_1718691172035.jpg",
-        "publishedAt": "2024-06-18T06:22:06Z",
-        "content": "If the Opposition INDIA bloc forces an election to the post of Speaker of the Lok Sabha next week, it would be the first such instance in the history of Independent India as the presiding officer has… [+5820 chars]"
+      "author": "Pranati Deva",
+      "title": "L&T, NTPC and more: Morgan Stanley bets on India's infrastructure boom with these 4 stocks | Stock Market News - Mint",
+      "description": "Morgan Stanley forecasts a 15.3% CAGR in India's infrastructure investments, totaling $1.45 trillion in the next five years. Identified key stocks for growth include L&T, NTPC, Titagarh Rail Systems, and UltraTech Cement.",
+      "url": "https://www.livemint.com/market/stock-market-news/morgan-stanley-bets-on-indias-infrastructure-boom-with-these-4-stocks-l-t-ntpc-titagarh-rail-and-ultratech-cement-11718879187978.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/20/1600x900/2-0-122792033-infrastructure-0_1681795676702_1718880016062.jpg",
+      "publishedAt": "2024-06-20T11:17:26Z",
+      "content": "Global brokerage house Morgan Stanley anticipates a robust 15.3 percent compound annual growth rate (CAGR) in India's infrastructure investments, projecting total expenditures of $1.45 trillion over … [+4935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "The Indian Express"
-        },
-        "author": "The Indian Express",
-        "title": "How private will Apple's Private Cloud Compute Models be in processing your AI requests? - The Indian Express",
-        "description": null,
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-private-cloud-compute-gen-ai-chatgpt-9398933/",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T06:03:52Z",
-        "content": null
+      "author": null,
+      "title": "Deepika Padukone's LOL Reply To Kalki 2898 AD Co-Star Prabhas: \"The Fact That He Said More Than 2 Sentences...\" - NDTV Movies",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/news",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-06-20T11:16:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "The Indian Express"
-        },
-        "author": "The Indian Express",
-        "title": "West Indies vs Afghanistan LIVE Score, T20 World Cup 2024: Pooran, bowlers power WI to 104-run win - The Indian Express",
-        "description": null,
-        "url": "https://indianexpress.com/article/sports/cricket/west-indies-vs-afghanistan-live-score-t20-world-cup-2024-match-40-today-wi-vs-afg-latest-scorecard-updates-9398396/",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T05:49:11Z",
-        "content": null
+      "author": "Reuters India",
+      "title": "India economic inequality to persist despite roaring GDP growth: Reuters poll - Reuters India",
+      "description": null,
+      "url": "https://www.reuters.com/world/india/india-economic-inequality-persist-despite-roaring-gdp-growth-2024-06-20/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T11:08:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bcci.tv"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Thehealthsite.com"
-        },
-        "author": "Satata Karmakar",
-        "title": "Listerine Cool Mint Mouthwash Can Increase Cancer Risk Within 3 Months: Study - TheHealthSite",
-        "description": "A recent study has revealed that using the popular mouthwash Listerine Cool Mint for three months could increase your risk of developing cancer. TheHealthSite.com",
-        "url": "https://www.thehealthsite.com/news/listerine-cool-mint-mouthwash-can-increase-colorectal-and-esophagus-cancer-risk-within-3-months-study-1100485/",
-        "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2024/06/Listerine-Cool-Min-Mouthwash.jpg",
-        "publishedAt": "2024-06-18T05:29:00Z",
-        "content": "VERIFIED Listerine Cool Mint Mouthwash Can Increase Cancer Risk Within 3 Months: Study\r\nA recent study has revealed that using the popular mouthwash Listerine Cool Mint for three months could increas… [+3551 chars]"
+      "author": null,
+      "title": "BCCI announces fixtures for Team India (Senior Men) international home season 2024-25 - BCCI",
+      "description": "BCCI announces fixtures for Team India (Senior Men) international home season 2024-25",
+      "url": "https://www.bcci.tv/articles/2024/news/55556117/bcci-announces-fixtures-for-team-india-senior-men-international-home-season-2024-25",
+      "urlToImage": "https://assets.bcci.tv/bcci/articles/1718875146_ALPHA7RV18151.jpg",
+      "publishedAt": "2024-06-20T11:01:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
       },
-      {
-        "source": {
-          "id": "techcrunch",
-          "name": "TechCrunch"
-        },
-        "author": "Jagmeet Singh",
-        "title": "Google brings Gemini mobile app to India with nine Indian language support - TechCrunch",
-        "description": "Google has released the Gemini mobile app in India with support for nine Indian languages, over four months after its debut in the U.S.",
-        "url": "https://techcrunch.com/2024/06/17/google-brings-gemini-mobile-app-to-india-with-nine-indian-language-support/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/gemini-mobile-app-google.jpg?w=1200",
-        "publishedAt": "2024-06-18T05:14:14Z",
-        "content": "Google has released its dedicated AI mobile app Gemini in India over four months after its debut in the U.S.  with support for nine Indian languages alongside English.\r\nThe Gemini mobile app in India… [+1835 chars]"
+      "author": "Moneycontrol News",
+      "title": "Accenture lowers revenue forecast again as tough macro economy weighs - Moneycontrol",
+      "description": "Accenture's revised outlook anticipates full-year revenue growth to be within the range of 1.5 percent to 2.5 percent.",
+      "url": "https://www.moneycontrol.com/technology/accenture-lowers-revenue-forecast-again-as-tough-macro-economy-weighs-article-12752795.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/12/Accenture.jpg",
+      "publishedAt": "2024-06-20T10:46:50Z",
+      "content": "IT services provider Accenture lowered its revenue forecast for fiscal year 2024 due to economic uncertainty leading clients to reduce spending on consulting services.\r\nAccenture's revised outlook on… [+2392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "News9live.com"
-        },
-        "author": "Aditya Madanapalle",
-        "title": "NASA Astronomy Picture of the Day: Stunning Webb Space Telescope images - News9 LIVE",
-        "description": "A collection of NASA's Astronomy Picture of the Day selections captured by the James Webb Space Telescope.",
-        "url": "https://www.news9live.com/web-stories/science/nasa-astronomy-picture-of-the-day-stunning-webb-space-telescope-images",
-        "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/06/cropped-image-549.png",
-        "publishedAt": "2024-06-18T05:12:10Z",
-        "content": "NASA, ESA, CSA, Ivo Labbe (Swinburne), Rachel Bezanson (University of Pittsburgh), Processing: Alyssa Pagan (STScI)"
+      "author": "News18",
+      "title": "OnePlus Nord CE 4 Lite India Launch Date Announced: Check Details - News18",
+      "description": "OnePlus Nord CE 4 Lite launch date confirmed for June 2024 along with some of the features like camera, design and colours.",
+      "url": "https://www.news18.com/web-stories/tech/oneplus-nord-ce-4-lite-india-launch-date-announced-check-details-2202227/",
+      "urlToImage": "https://images.news18.com/webstories/uploads/2024/06/cropped-66727fc83148a-oneplus-nord-ce-4-lite-5g-19504728-16x9-2024-06-a99827189d5d72e61534bffb4764ce9b.jpg",
+      "publishedAt": "2024-06-20T10:34:24Z",
+      "content": "Producer: Priyanka DasEditor: Manuj Yadav"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "TOI Sports Desk",
-        "title": "Gautam Gambhir to be interviewed today for Team India's head coach - The Times of India",
-        "description": "Cricket News: Former Indian cricketer Gautam Gambhir is set for a Zoom interview with the Cricket Advisory Committee (CAC) for the head coach position of the Indian",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-to-be-interviewed-today-for-team-indias-head-coach/articleshow/111073491.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-111074868,width-1070,height-580,imgsize-69094,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2024-06-18T05:06:00Z",
-        "content": null
+      "author": "Mint",
+      "title": "NEET, UGC-NET row: Rahul Gandhi attacks Narendra Modi, says PM psychologically collapsed, bothered about Speakers post | Today News - Mint",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9uZWV0LXVnYy1uZXQtY29uZ3Jlc3MtcmFodWwtZ2FuZGhpLWF0dGFja3MtbmFyZW5kcmEtbW9kaS1ianAtbmRhLXBtLXVuYWJsZS10by1zdG9wLXBhcGVyLWxlYWtzLXJ1c3NpYS11a3JhaW5lLXdhci0xMTcxODg3NzgyNTQ3Ny5odG1s0gGtAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2luZGlhL25lZXQtdWdjLW5ldC1jb25ncmVzcy1yYWh1bC1nYW5kaGktYXR0YWNrcy1uYXJlbmRyYS1tb2RpLWJqcC1uZGEtcG0tdW5hYmxlLXRvLXN0b3AtcGFwZXItbGVha3MtcnVzc2lhLXVrcmFpbmUtd2FyL2FtcC0xMTcxODg3NzgyNTQ3Ny5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T10:14:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "India TV News"
-        },
-        "author": "Muskan Gupta",
-        "title": "International Panic Day 2024: 5 ways to reduce stress and anxiety to lead a happier life - India TV News",
-        "description": "International Panic Day 2024 is a timely reminder to prioritise mental well-being. Know five effective strategies to alleviate stress and anxiety, paving the way for a more fulfilling and joyful life.",
-        "url": "https://www.indiatvnews.com/health/international-panic-day-2024-5-ways-to-reduce-stress-and-anxiety-to-lead-a-happier-life-2024-06-18-937466",
-        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/befunky-collage-2024-06-18t101621-1718685989.jpg",
-        "publishedAt": "2024-06-18T04:53:57Z",
-        "content": "Every year on June 18, people around the world observe International Panic Day, a day dedicated to raising awareness about stress and anxiety. In our fast-paced lives filled with uncertainties, it's … [+2545 chars]"
+      "author": "India Today World Desk",
+      "title": "Galwan on the seas as China troops with axes, spears attack Philippine navy ship - India Today",
+      "description": "The recent attack of Chinese coast guards on Philippine naval boats with spears axes and hammers was a grim reminder of the Galwan Valley clashes of 2020 in which 20 Indian soldiers were killed Both incidents reveal Chinese aggression towards its neighbours i…",
+      "url": "https://www.indiatoday.in/world/story/galwan-valley-india-philippine-seas-china-troops-axes-spears-attack-navy-ship-the-philippines-2555726-2024-06-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/galwan-south-china-sea-205835671-16x9_0.png?VersionId=K0WxEBu6Dem6ILiVFg3UuCU6NJ3QEn5c",
+      "publishedAt": "2024-06-20T10:05:47Z",
+      "content": "Chinese military personnel rammed two Philippine navy boats, boarded them and used axes, spears, machetes and hammers to damage the boats. The Chinese aggression in a disputed area of the South China… [+4012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "NDTV News"
-        },
-        "author": null,
-        "title": "Band, Baaja, Bhangra: Diljit Dosanjh's Dance Moves Lit Up The Tonight Show - NDTV Movies",
-        "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-        "url": "https://www.ndtv.com/news",
-        "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-        "publishedAt": "2024-06-18T04:45:14Z",
-        "content": null
+      "author": "Harsh Shivam",
+      "title": "Realme GT 6 smartphone, Buds Air 6 Pro wireless earbuds launched: Details - Business Standard",
+      "description": "Realme GT 6 launched in India: The Realme GT 6 smartphone is now available for pre-orders on Realme's official website, e-commerce platform Flipkart, and at select offline stores",
+      "url": "https://www.business-standard.com/technology/gadgets/realme-gt-6-smartphone-buds-air-6-pro-wireless-earbuds-launched-details-124062000568_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/thumb/fitandfill/400X400/1718872399-5034.jpeg",
+      "publishedAt": "2024-06-20T09:58:29Z",
+      "content": "The Realme GT 6 smartphone is now available for pre-orders on Realme's official website, e-commerce platform Flipkart, and at select offline stores\r\nRealme GT6\r\nHarsh ShivamNew Delhi\r\nRealme has laun… [+3568 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "India Today"
-        },
-        "author": "Janani K",
-        "title": "Singer Alka Yagnik diagnosed with rare sensory hearing loss - India Today",
-        "description": "Playback singer Alka Yagnik has been diagnosed with a rare sensory hearing loss She requested everyone039s support and understanding in critical times",
-        "url": "https://www.indiatoday.in/music/story/alka-yagnik-diagnosed-with-rare-sensory-hearing-loss-2554569-2024-06-18",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/alka-yagnik-sensory-loss-184033695-16x9_0.jpg?VersionId=PFijkxqiKBtVXXwQBoN_ybCqbXFnDBIK",
-        "publishedAt": "2024-06-18T04:44:10Z",
-        "content": "Veteran playback singer Alka Yagnik explained that she has been diagnosed with a rare sensory neural nerve sensory loss. In her post on Instagram, she mentioned that this was the reason why she was m… [+1545 chars]"
+      "author": "TOI Tech Desk",
+      "title": "Vivo Y58 smartphone launched in India with 50MP camera and 6,000mAh battery: Price, offers and more - The Times of India",
+      "description": "MOBILES & TABLETS News: Vivo has launched the Y58 smartphone in India with a 50 MP AI portrait camera and a 6,000 mAh battery, priced at Rs 19,499.",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/vivo-y58-smartphone-launched-in-india-with-50mp-camera-and-6000mah-battery-price-offers-and-more/articleshow/111137075.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111137074,width-1070,height-580,imgsize-36576,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20T09:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Business Standard"
-        },
-        "author": "Nisha Anand",
-        "title": "Coca Cola proposes $1 billion deal to top four Indian business families - Business Standard",
-        "description": "Coca-Cola India has approached four of the top Indian business families, seeking an investment of up to $1 billion as it eyes further expansion in the country",
-        "url": "https://www.business-standard.com/companies/news/coca-cola-proposes-1-billion-deal-to-top-four-indian-business-families-124061800154_1.html",
-        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/30/thumb/fitandfill/400X400/1714480151-4669.jpg",
-        "publishedAt": "2024-06-18T04:23:22Z",
-        "content": "Coca-Cola India has approached four of the top Indian business families, seeking an investment of up to $1 billion as it eyes further expansion in the country\r\nHCCB operates 16 factories spread in In… [+2123 chars]"
+      "author": null,
+      "title": "At Least 1,000, Including 68 Indians, Die In Scorching Heat During Hajj: Report - NDTV",
+      "description": "The death count from this year's hajj has exceeded 1,000, an AFP tally said on Thursday, more than half of them unregistered worshippers who performed the pilgrimage in extreme heat in Saudi Arabia.",
+      "url": "https://www.ndtv.com/world-news/at-least-1-000-die-in-scorching-heat-during-hajj-report-5930416",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/bjh7dpks_hajj-heat_625x300_20_June_24.jpeg?ver-20240615.100",
+      "publishedAt": "2024-06-20T09:36:50Z",
+      "content": "All told around 10 countries have reported 1,081 deaths during the annual pilgrimage. (File)\r\nRiyadh: The death count from this year's hajj has exceeded 1,000, an AFP tally said on Thursday, more tha… [+2628 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Hindustan Times",
-        "title": "China says G7 doesn't represent world, calls it a ‘political tool’ for US, Western supremacy - Hindustan Times",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9jaGluYS1zYXlzLWc3LWRvZXNudC1yZXByZXNlbnQtd29ybGQtY2FsbHMtaXQtYS1wb2xpdGljYWwtdG9vbC1mb3ItdXMtd2VzdGVybi1zdXByZW1hY3ktMTAxNzE4NjgzMDY2NjAyLmh0bWzSAZoBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvY2hpbmEtc2F5cy1nNy1kb2VzbnQtcmVwcmVzZW50LXdvcmxkLWNhbGxzLWl0LWEtcG9saXRpY2FsLXRvb2wtZm9yLXVzLXdlc3Rlcm4tc3VwcmVtYWN5LTEwMTcxODY4MzA2NjYwMi1hbXAuaHRtbA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T04:17:16Z",
-        "content": null
+      "author": "Business Standard",
+      "title": "Stock Market LIVE updates: Sensex up 150 pts, Nifty tests 23,550; RIL, HUL lead - Business Standard",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vbWFya2V0cy9uZXdzL3N0b2NrLW1hcmtldC1saXZlLXVwZGF0ZXMtanVuZS0yMC1uaWZ0eS1zZW5zZXgtbnNlLWJzZS1pcG8tbGlzdGluZy10b2RheS0xMjQwNjIwMDAwOTdfMS5odG1s0gGPAWh0dHBzOi8vd3d3LmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hbXAvbWFya2V0cy9uZXdzL3N0b2NrLW1hcmtldC1saXZlLXVwZGF0ZXMtanVuZS0yMC1uaWZ0eS1zZW5zZXgtbnNlLWJzZS1pcG8tbGlzdGluZy10b2RheS0xMjQwNjIwMDAwOTdfMS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T09:28:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Moneycontrol"
-        },
-        "author": "PTI",
-        "title": "Fitch raises India's growth estimates for FY25 to 7.2% - Moneycontrol",
-        "description": "For the fiscal years 2025-26 and 2026-27, Fitch projected growth rates of 6.5 per cent and 6.2 per cent, respectively.",
-        "url": "https://www.moneycontrol.com/news/business/fitch-raises-indias-growth-estimates-for-fy25-to-7-2-12750637.html",
-        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/GDP-1.jpg",
-        "publishedAt": "2024-06-18T04:17:08Z",
-        "content": "Fitch Ratings on Tuesday raised India's growth forecast for current fiscal to 7.2 per cent, from 7 per cent projected in March, citing a recovery in consumer spending and increased investment.\r\nFor t… [+1422 chars]"
+      "author": "Sunny Baski",
+      "title": "The burning plane: Fire reported in engine of Hyderabad-Kuala Lumpur flight; watch - The Times of India",
+      "description": "Over 100 passengers on a flight bound for Malaysia experienced a nerve-wracking situation when their Malaysian airlines flight was forced to make an u",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/the-burning-plane-fire-reported-in-engine-of-hyderabad-kuala-lumpur-flight-watch/articleshow/111129179.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111129374,width-1070,height-580,imgsize-3123713,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20T09:09:00Z",
+      "content": "8 plants that can attract pests, snakes, and insects in homes"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "The Times of India",
-        "title": "Explained: Why Russian President Vladimir Putin is visiting North Korea - The Times of India",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS93b3JsZC9ldXJvcGUvdmxhZGltaXItcHV0aW4tdG8tdmlzaXQta2ltLWpvbmctdW4tcnVzc2lhLW5vcnRoLWtvcmVhLXJlbGF0aW9ucy11a3JhaW5lLXdhci1wdXRpbi1raW0tYnJvbWFuY2UvYXJ0aWNsZXNob3cvMTExMDczMjI0LmNtc9IBrgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS93b3JsZC9ldXJvcGUvdmxhZGltaXItcHV0aW4tdG8tdmlzaXQta2ltLWpvbmctdW4tcnVzc2lhLW5vcnRoLWtvcmVhLXJlbGF0aW9ucy11a3JhaW5lLXdhci1wdXRpbi1raW0tYnJvbWFuY2UvYW1wX2FydGljbGVzaG93LzExMTA3MzIyNC5jbXM?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T04:06:00Z",
-        "content": null
+      "author": "The Times and The Sunday Times",
+      "title": "Putin arrives in Vietnam to reshape world order - The Times and The Sunday Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC0N4N0tfQWx1VE8wmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T09:00:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": "the-hindu",
-          "name": "The Hindu"
-        },
-        "author": "The Hindu",
-        "title": "Kanchenjunga accident: Several trains cancelled, diverted after Kanchenjunga Express train accident in West Bengal - The Hindu",
-        "description": null,
-        "url": "https://www.thehindu.com/news/national/several-trains-cancelled-diverted-after-kanchenjunga-express-train-mishap-in-west-bengal/article68302556.ece",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T03:53:00Z",
-        "content": null
+      "author": "TOI Lifestyle Desk",
+      "title": "Vitamin C: Here's how to add more Vitamin C to your diet - The Times of India",
+      "description": "From fruity delights to unexpected veggie heroes, we've got the scoop on how to amp up your Vitamin C game. So, grab your favourite smoothie cup, and let’s embark on a juicy adventure to a healthier you!",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/vitamin-c-heres-how-to-add-more-vitamin-c-to-your-diet/photostory/111133910.cms",
+      "urlToImage": "https://static.toiimg.com/photo/111134099.cms",
+      "publishedAt": "2024-06-20T08:30:00Z",
+      "content": "The recommended daily intake of vitamin C varies depending on age, gender, and lifestyle. For most adults, the recommended daily allowance (RDA) is about 75 mg for women and 90 mg for men. However, c… [+475 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "The Sentinel Assam"
-        },
-        "author": "Sentinel Digital Desk",
-        "title": "Eating samosa, burger when stressed out can fuel anxiety: Researchers - The Sentinel Assam",
-        "description": "New Delhi: Eating junk food like a samosa or burger when feeling stressed out can actually elevate anxiety levels, researchers said on Monday.&nbsp; When under",
-        "url": "https://www.sentinelassam.com/topheadlines/eating-samosa-burger-when-stressed-out-can-fuel-anxiety-researchers",
-        "urlToImage": "https://media.assettype.com/sentinelassam-english%2F2024-06%2Fb937d59a-e90c-49f5-b841-7097701b7eea%2Fsamosa.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2024-06-18T03:12:43Z",
-        "content": "New Delhi: Eating junk food like a samosa or burger when feeling stressed out can actually elevate anxiety levels, researchers said on Monday.  When under stress, people tend to turn to high-calorie … [+1858 chars]"
+      "author": "TOI News Desk",
+      "title": "NEET paper leak case: RJD leader Tejashwi's aide booked room for arrested students, alleges Bihar deputy - The Times of India",
+      "description": "India News: Deputy CM Vijay Sinha accused Tejashwi Yadav of NEET paper leak involvement, detailing calls made by Tejashwi's secretary to book accommodations in Pa",
+      "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-case-rjd-leader-tejashwis-pa-booked-room-for-arrested-students-alleges-bihar-deputy-cm-vijay-sinha/articleshow/111133559.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111133927,width-1070,height-580,imgsize-771055,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20T07:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
       },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "TOI Entertainment Desk",
-        "title": "Vicky Kaushal's 'Chhava' to now clash with Allu Arjun's 'Pushpa 2' as the latter gets pushed to December, - TOI Etimes",
-        "description": "'Pushpa: The Rule' has been delayed and it will now release in December this year. Interestingly, another Rashmika Mandanna starrer, 'Chhava' with Vic",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushals-chhava-to-now-clash-with-allu-arjuns-pushpa-2-as-the-latter-gets-pushed-to-december-both-the-movies-star-rashmika-mandanna/articleshow/111072028.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-111072024,width-1070,height-580,imgsize-49866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2024-06-18T02:59:00Z",
-        "content": null
+      "author": "Latha Venkatesh",
+      "title": "Budget 2024: From income tax relief to capital gains tax revision, here's what the industry expects - CNBCTV18",
+      "description": "Sudhir Kapadia, Partner-Tax & Regulatory Services at EY, and Dinesh Kanabar, CEO, Dhruva Advisors shared their expectations on income tax and capital gains tax changes, and other tax reforms, in the upcoming Budget.",
+      "url": "https://www.cnbctv18.com/economy/budget-2024-income-tax-rates-tax-slabs-new-tax-regime-capital-gains-tax-property-tax-19431005.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2022/12/capital-gains-tax.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-06-20T07:48:51Z",
+      "content": "Speaking to CNBC-TV18, Sudhir Kapadia, Partner-Tax &amp; Regulatory Svcs at EY believes a 10% long-term capital gains tax for listed securities is one of the most favourable rates globally.\"There's m… [+9716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "HT Entertainment Desk",
-        "title": "Sonakshi Sinha shares pics with Huma Qureshi ahead of wedding; Zaheer Iqbal lets his hair down at bachelor party - Hindustan Times",
-        "description": "Sonakshi Sinha and Zaheer Iqbal's marriage is to take place on June 23. Take a look at the new pictures from their respective bachelorette and bachelor parties. | Bollywood",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/sonakshi-sinha-shares-pics-with-huma-qureshi-ahead-of-wedding-zaheer-iqbal-lets-his-hair-down-at-bachelor-party-101718675812806.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/18/1600x900/so_1718676055661_1718676056036.jpg",
-        "publishedAt": "2024-06-18T02:46:11Z",
-        "content": "Sonakshi Sinha and Zaheer Iqbal are all set to tie the knot soon. Ahead of their wedding, both of them took to Instagram Stories on Monday night to post new pictures with their close friends. While Z… [+1944 chars]"
+      "author": "Khushi Pal",
+      "title": "10 ethereal pics of space captured by NASA - Hindustan Times",
+      "description": "Here is a look at ten sparkling images of space shared by NASA.",
+      "url": "https://www.hindustantimes.com/web-stories/in-focus/10-ethereal-pics-of-space-captured-by-nasa-101718867075818.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T07:40:05Z",
+      "content": "By Khushi PalPublished Jun 20, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Onmanorama",
-        "title": "11 killed, over 60 including 26 children missing after two shipwrecks off Italy | Onmanorama - Onmanorama",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mvd29ybGQvMjAyNC8wNi8xOC9taWdyYW50cy1raWxsZWQtaW4tc2hpcHdyZWNrcy1vZmYtaXRhbHkuaHRtbNIBYWh0dHBzOi8vd3d3Lm9ubWFub3JhbWEuY29tL25ld3Mvd29ybGQvMjAyNC8wNi8xOC9taWdyYW50cy1raWxsZWQtaW4tc2hpcHdyZWNrcy1vZmYtaXRhbHkuYW1wLmh0bWw?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T02:44:56Z",
-        "content": null
+      "author": "Vasudha Mukherjee",
+      "title": "Sunita Williams stuck in space: After launch, Starliner's return delayed - Business Standard",
+      "description": "Everything you need to know about Sunita Williams' space mission, Boeing Starliner setbacks and delays",
+      "url": "https://www.business-standard.com/world-news/sunita-williams-stuck-in-space-after-launch-starliner-s-return-delayed-124062000346_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/thumb/featurecrop/400X400/1718866190-3966.jpg",
+      "publishedAt": "2024-06-20T06:57:43Z",
+      "content": "First Starliner launch date: May 6The Crew Flight Test faced numerous delays before its successful launch. Initially scheduled for May 6, the mission was postponed just two hours before liftoff due t… [+78 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livelaw.in"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Livemint"
-        },
-        "author": "Asit Manohar",
-        "title": "Stock market today: Trade setup for Nifty 50 to US Fed rate; five stocks to buy or sell on Tuesday — June 18 | Stock Market News - Mint",
-        "description": "Stocks to buy today: Experts have recommended buying these five buy or sell stocks — TVS Motor, Timken India, PNB, Birla Corporation, and ITC",
-        "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-us-fed-rate-five-stocks-to-buy-or-sell-on-tuesday-june-18-11718677412939.html",
-        "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/18/1600x900/Stock_market_today_Stocks_to_buy_today_Buy_or_sell_1718677747766_1718677747984.jpg",
-        "publishedAt": "2024-06-18T02:37:17Z",
-        "content": "Stock market today: The Indian stock market continued to move into a narrow range movement with a positive bias and ended higher on Friday last week. The Nifty 50 index gained 66 points and closed at… [+5019 chars]"
+      "author": "Nupur Thapliyal",
+      "title": "Liquor Policy: Delhi Court Reserves Order On Chief Minister Arvind Kejriwal's Bail Plea - Live Law - Indian Legal News",
+      "description": "A Delhi Court on Thursday reserved order on the bail plea of Chief Minister Arvind Kejriwal in the money laundering case connected to the alleged liquor policy scam.Vacation Judge Nyay Bindu of...",
+      "url": "https://www.livelaw.in/top-stories/liquor-policy-delhi-court-reserves-order-on-chief-minister-arvind-kejriwals-bail-plea-260906",
+      "urlToImage": "https://www.livelaw.in/h-upload/2024/03/22/529865-arvind-kejriwal-and-rouse-avenue-district-court.webp",
+      "publishedAt": "2024-06-20T06:55:33Z",
+      "content": "A Delhi Court on Thursday reserved order on the bail plea of Chief Minister Arvind Kejriwal in the money laundering case connected to the alleged liquor policy scam.\r\nVacation Judge Nyay Bindu of Rou… [+6481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "BBC.com",
-        "title": "Priyanka Gandhi: India Congress leader to contest election - BBC.com",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jam1tZzRwbTBtNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2ptbWc0cG0wbTRvLmFtcA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T02:25:33Z",
-        "content": null
+      "author": "Amit Tyagi",
+      "title": "Bigg Boss OTT 3: Sana Makbul to Deepak Chaurasia, confirmed list of contestants - India Today",
+      "description": "As the premiere of 039Bigg Boss OTT 3039 approaches IndiaTodayin exclusively lists the names of the confirmed contestants for the Anil Kapoor-hosted show",
+      "url": "https://www.indiatoday.in/television/web-series/story/bigg-boss-ott-3-confirmed-list-of-contestants-sana-makbul-deepak-chaurasia-vada-pao-girl-chandrika-2555576-2024-06-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/sana-makbul-and-deepak-chaurasia-204433886-16x9_0.jpg?VersionId=AG0kegAqQ7DxzGd7sKlAJPpvHKwgcC.f",
+      "publishedAt": "2024-06-20T05:45:36Z",
+      "content": "Actor Anil Kapoor is all set to host Bigg Boss OTT Season 3 on JioCinema. Here is the list of 13 confirmed contestants who will appear in the controversial reality show. This season features a mix of… [+3622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "NDTV News"
-        },
-        "author": null,
-        "title": "India Has More Nuclear Weapons Than Pak, China Far Ahead: Report - NDTV",
-        "description": "Nine nuclear-armed nations including the US, Russia, France, China, India and Pakistan, continued to modernise their nuclear arsenals and several of them deployed new nuclear-capable weapon systems in 2023, a Swedish think-tank said on Monday.",
-        "url": "https://www.ndtv.com/india-news/india-has-more-nuclear-weapons-than-pakistan-report-5909387",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/prithvi-2_650x400_61517996530.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240616.345",
-        "publishedAt": "2024-06-18T01:56:11Z",
-        "content": "India slightly expanded its nuclear arsenal in 2023, the report said.\r\nNew Delhi: Nine nuclear-armed nations including the US, Russia, France, China, India and Pakistan, continued to modernise their … [+3830 chars]"
+      "author": null,
+      "title": "\"Once-In-A-Lifetime\" Cosmic Explosion Will Be Visible From Earth, Says NASA - NDTV",
+      "description": "The \"Blaze Star,\" which is a binary system in the Northern Crown about 3,000 light years from Earth, is comprised of a white dwarf, an Earth-sized remnant of a dead star with a mass comparable to the sun.",
+      "url": "https://www.ndtv.com/science/once-in-a-lifetime-cosmic-explosion-will-be-visible-from-earth-says-nasa-check-details-5928430",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/p35qqjf_interstellar-explosion-_625x300_20_June_24.jpeg?ver-20240615.100",
+      "publishedAt": "2024-06-20T04:08:08Z",
+      "content": "An Earth-sized remnant of a dead star, located about 3,000 light years from Earth, will explode\r\nA celestial spectacle is set to dazzle stargazers this summer, as NASA has predicted the rare occurren… [+2396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "HT News Desk",
-        "title": "PM Kisan Samman Nidhi Scheme: PM Narendra Modi to visit Varanasi today to release 17th instalment | Full schedule - Hindustan Times",
-        "description": "Modi will also release certificates to over 30,000 SHGs trained as Krishi Sakhis, who will work as para extension workers. | Latest News India",
-        "url": "https://www.hindustantimes.com/india-news/narendra-modi-visit-varanasi-today-june-18-release-17-pm-kisan-instalment-full-schedule-101718670472275.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/18/1600x900/ANI-20240514118-0_1715746437957_1718672625977.jpg",
-        "publishedAt": "2024-06-18T01:51:29Z",
-        "content": "Prime Minister Narendra Modi is set to visit Uttar Pradesh's Varanasi on Tuesday evening, June 18, and distribute the 17th instalment of the PM-KISAN scheme. Over 9.26 crore farmers will receive more… [+2118 chars]"
+      "author": "Janani K",
+      "title": "Ram Charan's wife Upasana on daughter Klin Kaara's 1st birthday: You complete us - India Today",
+      "description": "Ram Charan and Upasana039s daughter Klin Kaara Konidela turned one today June 20 Upasana re-shared her daughter039s video and wrote a cute wish for her",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charans-wife-upasana-on-daughter-klin-kaaras-1st-birthday-you-complete-us-2555537-2024-06-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/ram-charan-upasana-klin-kaara-202730456-16x9_0.jpg?VersionId=mf38ZOH6o5k4q__OEcDr9bKsI8UPYWK3",
+      "publishedAt": "2024-06-20T03:53:06Z",
+      "content": "Ram Charan and Upasana Kamineni Konidela's daughter, Klin Kaara Konidela, is celebrating her first birthday today, June 20. As the little munchkin turned one, Upasana shared a throwback video, which … [+1299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Deccan Herald"
-        },
-        "author": "Reuters",
-        "title": "Euro 2024: Goal drought and bloodied nose underlines Mbappe's misfortune - Deccan Herald",
-        "description": null,
-        "url": "https://www.deccanherald.com/sports/football/euro-2024-goal-drought-and-bloodied-nose-underlines-mbappes-misfortune-3070489",
-        "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-06%2F837c8614-7719-47a9-841a-9142de940df7%2F2024_06_17T210855Z_1230676503_UP1EK6H1LM4N0_RTRMADP_5_SOCCER_EURO_AUT_FRA_REPORT__1_.JPG?rect=0%2C14%2C1216%2C638&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-        "publishedAt": "2024-06-18T01:18:18Z",
-        "content": "The 25-year-old was impressive and involved in just about every France move, but it just was not his night.\r\nHe ended it with a bloodied nose after a nasty collision with the shoulder of Austria's Ke… [+1676 chars]"
+      "author": "India Today Tech",
+      "title": "Motorola Razr Plus 2024 details leak ahead of launch next week: Everything we know so far - India Today",
+      "description": "Motorola Razr Plus 2024 is expected to bring a number of changes as compared to the previous generation In a recent official looking video leak one can notice a few new upcoming features of the foldable",
+      "url": "https://www.indiatoday.in/technology/news/story/motorola-razr-plus-2024-details-leak-ahead-of-launch-next-week-what-do-we-know-2555534-2024-06-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/motorola-razr-40-ultra-230526340-16x9_2.png?VersionId=ioq2CrnhhDn180ErXmeAjB7clBxarEfb",
+      "publishedAt": "2024-06-20T03:36:39Z",
+      "content": "As the market for foldable phones expands, Motorola is expected to launch another flagship – Razr Plus. While the launch has a week to go, a new leak points at the upcoming features of the smartphone… [+2263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "HT News Desk",
-        "title": "Gurpatwant Pannun ‘murder’ plot: Czech Republic Police releases first video of Nikhil Gupta being extradited to US - Hindustan Times",
-        "description": "Indian national Nikhil Gupta, 52, was extradited to the US on June 14 from the Czech Republic following his arrest in Prague last year. | Latest News India",
-        "url": "https://www.hindustantimes.com/india-news/gurpatwant-pannun-murder-plot-czech-republic-police-releases-first-video-of-nikhil-gupta-being-extradited-to-us-101718668311228.html",
-        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/18/1600x900/nikhil_gupta_1718670198430_1718670212263.jpg",
-        "publishedAt": "2024-06-18T00:28:29Z",
-        "content": "Nikhil Gupta extradited to US news: The Czech Republic Police on Monday released the first visuals of Nikhil Gupta, an Indian national accused of being involved in a murder-for-hire plot against Sikh… [+3478 chars]"
+      "author": "Ranjani Raghavan, Neha Joshi",
+      "title": "Sebi directs Religare's board, Saluja to seek approvals for Burman open offer | Company Business News - Mint",
+      "description": "The markets regulator has signalled its unhappiness over the Religare board's attempt to stall the Burman family’s open offer for the company. It has directed the Religare board to seek RBI approval within a week",
+      "url": "https://www.livemint.com/companies/news/sebi-directs-religares-board-saluja-to-seek-approvals-for-burman-open-offer-11718851949476.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/20/1600x900/Rashmi_saluja_1701923688346_1718854145308.jpeg",
+      "publishedAt": "2024-06-20T03:35:08Z",
+      "content": "Indias markets regulator has pulled up Religare Enterprises Ltds chairperson Rashmi Saluja and its board of directors for failing to comply with the securities law after the Burman family launched an… [+5090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mykhel.com"
       },
-      {
-        "source": {
-          "id": "the-hindu",
-          "name": "The Hindu"
-        },
-        "author": "The Hindu",
-        "title": "Scientists find a ‘universal’ equation that predicts how quickly bird, bat, insect wings beat - The Hindu",
-        "description": null,
-        "url": "https://www.thehindu.com/sci-tech/science/wings-of-birds-insects-bats-beat-according-to-a-common-equation/article68295958.ece",
-        "urlToImage": null,
-        "publishedAt": "2024-06-18T00:00:00Z",
-        "content": null
+      "author": "myKhel",
+      "title": "Copa America 2024 Live Streaming and Broadcast: Where to Watch Copa America in India, UK, USA, Bangladesh and other Countries? - myKhel",
+      "description": null,
+      "url": "https://www.mykhel.com/football/copa-america-2024-live-streaming-and-broadcast-where-to-watch-copa-america-in-india-uk-usa-bangl-288565.html",
+      "urlToImage": null,
+      "publishedAt": "2024-06-20T03:30:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      {
-        "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-        },
-        "author": "TNN",
-        "title": "Erase our names or will sue: Yogendra, Palshikar to NCERT - The Times of India",
-        "description": "India News: Yogendra Yadav and Suhas Palshikar object to NCERT for using their names in biased and dysfunctional textbooks, threatening legal action if not withdr",
-        "url": "https://timesofindia.indiatimes.com/india/erase-our-names-or-will-sue-yogendra-palshikar-to-ncert/articleshow/111067177.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-111067243,width-1070,height-580,imgsize-779837,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2024-06-17T21:07:00Z",
-        "content": "10 animals with unique parenting behaviours"
+      "author": "TOI World Desk",
+      "title": "Louisiana becomes first US state to require Ten Commandments in public school classrooms - The Times of India",
+      "description": "US News: Louisiana has become the first state in the United States to mandate that the Ten Commandments be displayed in every public school classroom, followin.",
+      "url": "https://timesofindia.indiatimes.com/world/us/louisiana-becomes-first-us-state-to-require-ten-commandments-in-public-school-classrooms/articleshow/111126907.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111126934,width-1070,height-580,imgsize-1378938,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-20T03:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "NDTV News"
-        },
-        "author": null,
-        "title": "Explained: Cases Of Rare \"Flesh-Eating Bacteria\" Surge To 1000 In Japan - NDTV",
-        "description": "Health officials in Japan are on high alert after close to 1,000 cases of a deadly infection were reported across the country.",
-        "url": "https://www.ndtv.com/world-news/explained-cases-of-rare-flesh-eating-bacteria-surge-to-1-000-in-japan-5908477",
-        "urlToImage": "https://c.ndtvimg.com/2024-06/vhkdvva8_group-a-strep-infection_625x300_15_June_24.jpeg",
-        "publishedAt": "2024-06-17T18:03:11Z",
-        "content": "STSS is a rare but severe bacterial infection caused by group A Streptococcus bacteria.\r\nHealth officials in Japan are on high alert after close to 1,000 cases of a deadly infection were reported acr… [+2526 chars]"
+      "author": "Livemint",
+      "title": "When will monsoon hit Delhi, NCR? IMD shares big update | Today News - Mint",
+      "description": "India Meteorological Department predicts monsoon to reach Delhi-NCR by June 30.",
+      "url": "https://www.livemint.com/news/india/when-will-monsoon-hit-delhi-ncr-imd-shares-big-update-rainfall-heatwave-up-haryana-noida-gurugram-rain-news-11718848796529.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/20/1600x900/Delhi-Rain-weather--12_1718849391677_1718849405059.jpg",
+      "publishedAt": "2024-06-20T02:02:56Z",
+      "content": "According to the India Meteorological Department (IMD) forecast on Wednesday, the monsoon will reach Delhi-NCR around around June 30.\r\nIMD scientist Dr Naresh Kumar told ANI, We had issued a red aler… [+2388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Onmanorama.com"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Zoom"
-        },
-        "author": "Divya",
-        "title": "Rare Nova Explosion Visible In 80 Years With Naked Eye, Know How To Watch - Times Now",
-        "description": "NASA has confirmed that once in 80 years, a rare celestial event, the Nova explosion is set to occur soon. Know how to watch it via the naked eye.",
-        "url": "https://www.timesnownews.com/technology-science/rare-nova-explosion-visible-in-80-years-with-naked-eye-know-how-to-watch-article-111064011",
-        "urlToImage": "https://static.tnn.in/thumb/msid-111064374,thumbsize-16862,width-1280,height-720,resizemode-75/111064374.jpg",
-        "publishedAt": "2024-06-17T15:41:00Z",
-        "content": "Eid-Al-Adha 2024: Shah Rukh Khan Greets Fans From Mannat, Looks Dashing In Blue Shirt, Black Pants. WATCH"
+      "author": "Dr Deepthi TR",
+      "title": "World Kidney Cancer Day: Why is the 'silent' disease on the rise in India? - Onmanorama",
+      "description": "Diagnosing kidney cancer involves a combination of clinical evaluation, imaging studies, and sometimes a biopsy.",
+      "url": "https://www.onmanorama.com/lifestyle/health/2024/06/19/world-kidney-cancer-day-rise-in-india-reasons.html",
+      "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/3/9/kidney-health-c.jpg",
+      "publishedAt": "2024-06-20T00:53:37Z",
+      "content": "Every year, the third Thursday of June is observed as the World Kidney Cancer Day. It is dedicated to raising awareness about kidney cancer, its symptoms, and the importance of early detection. Kidne… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Hindustan Times"
-        },
-        "author": "Neha Yadav",
-        "title": "10 stunning images of cosmos shared by NASA - Hindustan Times",
-        "description": "10 stunning images of cosmos shared by NASA",
-        "url": "https://www.hindustantimes.com/web-stories/in-focus/10-stunning-images-of-cosmos-shared-by-nasa-101718622503052.html",
-        "urlToImage": null,
-        "publishedAt": "2024-06-17T12:30:03Z",
-        "content": "By Neha YadavPublished Jun 17, 2024\r\nHindustan TimesIn FocusPhoto Credits: Instagram/nasahubble"
+      "author": "The Indian Express",
+      "title": "T20 World Cup: South Africa-born Andries Gous, playing for USA, gives South Africa a scare - The Indian Express",
+      "description": null,
+      "url": "https://indianexpress.com/article/sports/cricket/t20-world-cup-south-africa-born-andries-gous-batting-usa-vs-sa-antigua-9403057/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T18:51:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "The News Minute"
-        },
-        "author": "TNM Staff",
-        "title": "From Kiccha Sudeep to Upendra, actors react to Darshan’s arrest in murder case - The News Minute",
-        "description": "Almost a week after the arrest of Kannada actor Darshan Thoogudeepa in connection to a murder case of a Chitradurga native, actors from the Sandalwood have star",
-        "url": "https://www.thenewsminute.com/karnataka/from-kiccha-sudeep-to-upendra-actors-react-to-darshans-arrest-in-murder-case",
-        "urlToImage": "https://media.assettype.com/tnm%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fdarshan_sudeep750.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2024-06-17T11:22:00Z",
-        "content": "Almost a week after the arrest of Kannada actor Darshan Thoogudeepa in connection to a murder case of a Chitradurga native, actors from the Sandalwood have started responding to the incident, which h… [+3146 chars]"
+      "author": "TOI Etimes",
+      "title": "Kamal Haasan on his spine-chilling look in 'Kalki 2898 AD': 'I didn't want to be pregnant in the film or - TOI Etimes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi7gFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL2thbWFsLWhhYXNhbi1vbi1oaXMtc3BpbmUtY2hpbGxpbmctbG9vay1pbi1rYWxraS0yODk4LWFkLWktZGlkbnQtd2FudC10by1iZS1wcmVnbmFudC1pbi10aGUtZmlsbS1vci1pLXdvdWxkLWhhdmUtdHJpZWQtZGVlcGlrYS1wYWR1a29uZXMtbG9vay9hcnRpY2xlc2hvdy8xMTExMTg1ODQuY21z0gHyAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2VudGVydGFpbm1lbnQvaGluZGkvYm9sbHl3b29kL25ld3Mva2FtYWwtaGFhc2FuLW9uLWhpcy1zcGluZS1jaGlsbGluZy1sb29rLWluLWthbGtpLTI4OTgtYWQtaS1kaWRudC13YW50LXRvLWJlLXByZWduYW50LWluLXRoZS1maWxtLW9yLWktd291bGQtaGF2ZS10cmllZC1kZWVwaWthLXBhZHVrb25lcy1sb29rL2FtcF9hcnRpY2xlc2hvdy8xMTExMTg1ODQuY21z?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T15:06:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slurrp.com"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "India Today"
-        },
-        "author": "Ankita Garg",
-        "title": "iPhone 15 Pro and 15 Pro Max price drops in India, only devices eligible to receive Apple Intelligence - India Today",
-        "description": "The iPhone 15 Pro is now available at a discounted price of Rs 126990 on Vijay Sales down from its original price of Rs 134900 There is an extra Rs 3000 discount as well on select bank offers which will effectively drop the price to Rs 123990 Read on to know …",
-        "url": "https://www.indiatoday.in/technology/news/story/iphone-15-pro-and-15-pro-max-price-cut-in-india-only-devices-eligible-to-receive-apple-intelligence-2554295-2024-06-17",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/iphone-15-pro-max-291834181-16x9_3.png?VersionId=HBPbOChX5mVluIFv9VNhe6IRw9wd3OMy",
-        "publishedAt": "2024-06-17T10:47:14Z",
-        "content": "The prices of the iPhone 15 Pro and iPhone 15 Pro Max have been reduced on select online channels. These models, now more affordable, are also set to be the only devices to receive the recently annou… [+2902 chars]"
-      }
-    ]
-  }
-  
+      "author": "Pakhi Rewri",
+      "title": "6 Foods That Can Prevent Hair Fall During Monsoon - Slurrp",
+      "description": "Hair fall during summer is a very common phenomenon that a lot of people experience. If you feel like you are losing some extra hair as the monsoon starts, then remember that you are not the only one. Instead of accepting this as a seasonal change, here are s…",
+      "url": "https://www.slurrp.com/article/6-foods-that-can-prevent-hair-fall-during-monsoon-1718807727131",
+      "urlToImage": "https://images.slurrp.com/prodarticles/5x0s40lwesp.webp",
+      "publishedAt": "2024-06-19T14:50:56Z",
+      "content": "\" style=\"height: 370px;\"&gt;\r\nVideo Credits: YouTube\r\nIf not tackled on time, this hair fall might become chronic, which is why a person should start making changes in their diet to strengthen their … [+120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pmindia.gov.in"
+      },
+      "author": null,
+      "title": "We reiterate our commitment to overcome Sickle Cell Disease: PM - PM India",
+      "description": "Pm India Website",
+      "url": "https://www.pmindia.gov.in/en/news_updates/we-reiterate-our-commitment-to-overcome-sickle-cell-disease-pm/",
+      "urlToImage": "https://www.pmindia.gov.in/wp-content/uploads/2023/07/default_Thumbnails-03.jpg",
+      "publishedAt": "2024-06-19T07:33:23Z",
+      "content": "The Prime Minister, Shri Narendra Modi, today on the World Sickle Cell Day reiterated that his government is committed to overcoming this disease. \r\nMentioning the National Sickle Cell Anaemia Elimin… [+486 chars]"
+    }
+  ]
+}
