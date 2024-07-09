@@ -261,6 +261,240 @@
       "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2024/07/08/1433959-10mins.jpg",
       "publishedAt": "2024-07-08T09:15:05Z",
       "content": "Regular physical activity, such as walking, can help to regulate sleep patterns, improve the quality of sleep, and helps to reduce stress and anxiety, which are common causes of sleep disturbances."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Harsh Shivam",
+      "title": "Nothing launches CMF Phone 1 in India, Watch Pro 2 and Buds Pro 2 tag along - Business Standard",
+      "description": "CMF Phone 1: Priced at Rs 15,999 onwards, the CMF Phone 1 will be available from June 12 on its official India website, e-commerce platform Flipkart, and at select retail stores",
+      "url": "https://www.business-standard.com/technology/gadgets/nothing-launches-cmf-phone-1-in-india-watch-pro-2-and-buds-pro-2-tag-along-124070800448_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/08/thumb/featurecrop/400X400/1720428260-7165.jpg",
+      "publishedAt": "2024-07-08T08:59:30Z",
+      "content": "Priced at Rs 15,999 onwards, the CMF Phone 1 will be available from June 12 on its official India website, e-commerce platform Flipkart, and at select retail stores\r\nCMF Phone 1, Buds Pro 2 and Watch… [+4943 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Andhra Pradesh would be a different place had YSR been alive: Rahul Gandhi - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-would-be-a-different-place-had-ysr-been-alive-rahul-gandhi/article68380763.ece",
+      "urlToImage": null,
+      "publishedAt": "2024-07-08T08:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dsij.in"
+      },
+      "author": "Siddharth Mane",
+      "title": "Benchmark indices trade lower while Nifty FMCG surges over 1 per cent! - Dalal Street Investment Journal",
+      "description": "On July 05, 2024, foreign institutional investors (FII) bought shares worth Rs 1,241.33 crore, while domestic institutional investors (DII) offloaded shares worth Rs 1,651.36 crore.",
+      "url": "https://www.dsij.in/dsijarticledetail/market-wrap-benchmark-indices-close-on-a-negative-note-with-nifty-psu-bank-among-the-top-losers",
+      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/39586/431.jpg",
+      "publishedAt": "2024-07-08T08:48:45Z",
+      "content": "On Monday, Benchmark indices concluded the first trading day of the week a negative note as Sensex declined by 0.05 per cent and closed below the 80,000 mark, while Nifty slightly declined by 0.01 pe… [+6964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Tech",
+      "title": "Oppo Reno 12 series to launch in India on July 12: AI features, battery details and everything we already know - India Today",
+      "description": "Oppo has announced the launch of its flagship Reno 12 series in India on July 12 The company has also been teasing various built-in AI features for the phones Here039s a look at what we know so far about the Reno 12 and Reno 12 Pro smartphones",
+      "url": "https://www.indiatoday.in/technology/news/story/oppo-reno-12-series-to-launch-in-india-on-july-12-ai-features-battery-details-and-everything-we-already-know-2563784-2024-07-08",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/oppo-reno-12-pro-5g-040802771-16x9_1.jpg?VersionId=wdqeHK9Q6z2PwTo95n.UqszpW5LRlmL.",
+      "publishedAt": "2024-07-08T08:47:33Z",
+      "content": "Oppo recently introduced its flagship Reno 12 series in the global market, including the Oppo Reno 12 5G and the Reno 12 Pro 5G smartphones. Following the global launch, Oppo confirmed that these sma… [+3597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Sushim Mukul",
+      "title": "Why Marine Le Pen's rightwing National Rally lost France parliamentary election - India Today",
+      "description": "Marine Le Pen039s rightwing National Rally swept France in the EU election In the first round of French polls it came first Then why did Le Pen039s National Rally come a disastrous third behind the ultra-Left coalition and President Macron039s centrist bloc",
+      "url": "https://www.indiatoday.in/world/story/marine-le-pens-rightwing-party-national-rally-lost-france-election-left-coalition-macron-2563763-2024-07-08",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/marine-le-pen-had-dismissed-projections-indicating-her-national-rally-party-will-fall-short-of-an-ab-081118990-16x9_0.jpg?VersionId=7_8P_QyY0ZnNM8eUIUUbH0MV6.L5KWD2",
+      "publishedAt": "2024-07-08T08:45:32Z",
+      "content": "A month ago, as the results of the 2024 European Parliament elections started pouring in, Marine Le Pen's nationalist party, National Rally, was seen sweeping the polls with 31% of the votes. In cont… [+5562 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nikhil Agarwal",
+      "title": "SBI wants tax parity on bank FDs with mutual funds & equity markets in Budget - The Economic Times",
+      "description": "SBI has urged for income tax parity on bank FDs in Budget 2024, highlighting that bank credit growth outpaced deposit increases by Rs 2 lakh crore in FY24. Currently, equity and MF short-term capital gains are taxed at a flat 15%, while long-term gains enjoy …",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-wants-tax-parity-on-bank-fds-with-mutual-funds-equity-markets-in-budget/articleshow/111573721.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111573918,width-1200,height-630,imgsize-68700,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-08T08:18:44Z",
+      "content": "As bank credit growth exceeded the increase in deposits in FY24 by Rs 2 lakh crore, the State Bank of India (SBI) has sought income tax parity on bank fixed deposits (FDs) in line with other asset cl… [+2848 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "Boeing agrees to plead guilty to criminal fraud charge stemming from 2 deadly 737 Max crashes - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2JvZWluZy1hZ3JlZXMtdG8tcGxlYWQtZ3VpbHR5LXRvLWNyaW1pbmFsLWZyYXVkLWNoYXJnZS1zdGVtbWluZy1mcm9tLTItZGVhZGx5LTczNy1tYXgtY3Jhc2hlcy0xMDE3MjA0MjU1MDA4ODYuaHRtbNIBqAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL2JvZWluZy1hZ3JlZXMtdG8tcGxlYWQtZ3VpbHR5LXRvLWNyaW1pbmFsLWZyYXVkLWNoYXJnZS1zdGVtbWluZy1mcm9tLTItZGVhZGx5LTczNy1tYXgtY3Jhc2hlcy0xMDE3MjA0MjU1MDA4ODYtYW1wLmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-08T08:06:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "India Women vs South Africa Women 3rd T20I: Fantasy XI Prediction, teams, captain, vice-captain, toss and venue analysis - Hindustan Times",
+      "description": "Find out all the Fantasy XI details about the 3rd T20I between IND W and SA W. | Crickit",
+      "url": "https://www.hindustantimes.com/cricket/india-women-vs-south-africa-women-3rd-t20i-fantasy-xi-prediction-teams-captain-vice-captain-toss-and-venue-analysis-101720423039514.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/08/original/IND_W_vs_SA_W_Dream11_1720425541269.png",
+      "publishedAt": "2024-07-08T08:01:49Z",
+      "content": "India Women will clash with South Africa Women in the third and final match of the three-match T20I series in Chennai on Tuesday. While South Africa Women defeated India Women in the opening fixture … [+4801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "author": "Neha Aravind",
+      "title": "IRFC To RVNL: Railway Stocks Rally After Minister Announces Expansion Plans - NDTV Profit",
+      "description": "Minister of Railways Ashwini Vaishnaw announced the introduction of 2,500 new general passenger coaches and 10,000 non-AC coaches including 50 new Amrit Bharat trains.",
+      "url": "https://www.ndtvprofit.com/buzzing-stocks/irfc-to-rvnl-railway-stocks-rally-after-minister-announces-expansion-plans",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-07%2Fe6929ca2-152b-467c-951b-5022abd26738%2FGPyCtDgacAAqqf3.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2024-07-08T07:45:44Z",
+      "content": "Rail Vikas Nigam Ltd., Indian Railway Finance Corp., and IRCON International Ltd. are among the sector's top gainers, having all hit 52-week highs during early trade.\r\nShares of IRCON International L… [+1111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Anurag Bohra",
+      "title": "Bigg Boss OTT 3: Vishal Pandey's sister Neha Pandey and parents demand public apology from Armaan Malik for the slap - Hindustan Times",
+      "description": "Vishal Pandey was recently slapped by Armaan Malik on Bigg Boss OTT 3. Vishal's family has now demanded Armaan's eviction from the show. | Web Series",
+      "url": "https://www.hindustantimes.com/entertainment/web-series/bigg-boss-ott-3-vishal-pandeys-sister-neha-pandey-and-parents-demand-public-apology-from-armaan-malik-for-the-slap-101720418223518.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/08/1600x900/bigg_boss_ott_3_1720422759745_1720422785082.jpg",
+      "publishedAt": "2024-07-08T07:22:18Z",
+      "content": "The drama in Bigg Boss OTT 3 is getting serious about the recent fight between Armaan Malik and Vishal Pandey. Fans and celebrities gave mixed opinions after Armaan slapped Vishal for praising his wi… [+2593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Chennai Police Commissioner Transferred After Tamil Nadu BSP Chief's Murder - NDTV",
+      "description": "The Chennai Police Commissioner has been transferred, three days after Tamil Nadu Bahujan Samaj Party (BSP) chief K Armstrong was killed in Chennai. Sandeep Rai Rathore is an IPS officer who formerly worked with the NDRF and CISF.",
+      "url": "https://www.ndtv.com/india-news/chennai-police-commissioner-sandeep-rathore-transferred-after-bsp-leaders-murder-6058500",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/th4qq5no_sandeep-rathore-chennai-police_625x300_08_July_24.jpeg?ver-20240615.100",
+      "publishedAt": "2024-07-08T07:22:01Z",
+      "content": "The Chennai Police Commissioner has been transferred, three days after Tamil Nadu Bahujan Samaj Party (BSP) chief K Armstrong was killed in Chennai. Sandeep Rai Rathore, an IPS officer formerly with … [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "As JMM wins trust motion in Jharkhand Assembly, Hemant thanks Champai: ‘He saved this govt’ - The Indian Express",
+      "description": null,
+      "url": "https://indianexpress.com/article/india/hemant-soren-trust-vote-jharkhand-assembly-9439791/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-08T07:19:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "NASA images: 5 stunning photographs from Space; from ‘Sunflower galaxy’ to ‘Omega Nebula’ | Mint - Mint",
+      "description": "Check out these stunning images by NASA from space.",
+      "url": "https://www.livemint.com/science/news/nasa-images-sunflower-galaxy-omega-nebula-images-of-space-galaxy-stars-planets-astronomy-11720416281880.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/08/1600x900/PHOTO_2_1720251223799_1720417717607.jpg",
+      "publishedAt": "2024-07-08T05:56:33Z",
+      "content": "The National Aeronautics and Space Administration (NASA) continues to unveil images capturing rare events and distant celestial bodies. Here are the top 5 enigmatic images from NASA, spanning from th… [+3905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Ashish Singh",
+      "title": "Garena Free Fire MAX Redeem Codes Today, July 8: Win Free Skins, Weapons Here - Jagran English",
+      "description": "Garena Free Fire MAX Redeem Codes Today, July 8: Now win a variety of free prizes including skins, diamonds and lot more using the Free Fire MAX codes.",
+      "url": "https://english.jagran.com/technology/garena-free-fire-max-redeem-codes-today-july-8-2024-indian-server-advance-server-hacks-win-free-skins-weapons-here-10172017",
+      "urlToImage": "https://imgeng.jagran.com/images/2024/07/08/article/image/garena-free-fire-max-redeem-codes-1720416537823.jpg",
+      "publishedAt": "2024-07-08T05:32:00Z",
+      "content": "Garena Free Fire MAX Redeem Codes Today, July 8: Mobile gamers who prefer to spend their time playing Free Fire MAX, a popular battle royale game, can now win a variety of freebies and prizes. In ord… [+2035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bar & Bench - Indian Legal News"
+      },
+      "author": "Abhimanyu Hazarika",
+      "title": "Courts cannot order accused to share Google pin location as condition for bail: Supreme Court - Bar & Bench - Indian Legal News",
+      "description": "The Supreme Court on Monday ruled that it is not permissible for courts to order an accused to share his Google PIN location with the authorities as a condition",
+      "url": "https://www.barandbench.com/news/courts-cannot-order-accused-to-share-google-pin-location-condition-for-bail-supreme-court",
+      "urlToImage": "https://media.assettype.com/barandbench%2F2023-07%2F9aba6d65-3c93-4d64-8aac-258fc7dd920e%2F18.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2024-07-08T05:15:02Z",
+      "content": "The order came in an appeal against certain conditions imposed by the Delhi High Court in its order granting interim bail to a Nigerian national, Frank Vitus, who was an accused in a drugs case.\r\nAs … [+948 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Karnataka records two dengue deaths in a day - The Times of India",
+      "description": "In Karnataka, dengue claimed five-year-old Chirayi Hosamani and a 35-year-old Sri Jayadeva hospital employee with severe fever, organ failure. Nagendr",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-records-two-dengue-deaths-in-a-day/articleshow/111564588.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111564606,width-1070,height-580,imgsize-18120,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-08T02:22:00Z",
+      "content": "Unforgettable train journeys across Indias best landscape"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PINKVILLA"
+      },
+      "author": "Loveleen Kaur",
+      "title": "WATCH: Did Aryan Khan and rumored gf Larissa Bonesi go on Sunday date? Duo spotted entering same venue separately - PINKVILLA",
+      "description": "Rumor Has It That Shah Rukh Khan's Son Aryan Khan Is In A Relationship With Model-actress Larissa Bonesi. Both Of Them Were Spotted At The Same Event With Nirvaan Khan, Lakshya And Others.",
+      "url": "https://www.pinkvilla.com/entertainment/news/watch-did-aryan-khan-and-rumored-gf-larissa-bonesi-go-on-sunday-date-duo-spotted-entering-same-venue-separatel-1325392",
+      "urlToImage": "https://www.pinkvilla.com/images/2024-07/2001631801_aryan-cover-min-1.jpg",
+      "publishedAt": "2024-07-08T00:35:40Z",
+      "content": "Shah Rukh Khans son, Aryan Khan, is rumored to be dating Brazilian model-turned-actor Larissa Bonesi. She has been spotted with several celebrities and attending events where Khan was present on mult… [+1898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "list.metadata.agency",
+      "title": "Top House Democrat to Hold Weekend Meeting as Anxiety Builds | Company Business News - Mint",
+      "description": "House Minority Leader Hakeem Jeffries on Friday night abruptly scheduled an unusual weekend meeting with top Democratic colleagues as party anxiety festers over whether Joe Biden should remain in the presidential race.",
+      "url": "https://www.livemint.com/companies/news/top-house-democrat-to-hold-weekend-meeting-as-anxiety-builds-11720381278143.html",
+      "urlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Companies_-_News_1545993790355.jpg",
+      "publishedAt": "2024-07-07T19:41:17Z",
+      "content": "(Bloomberg) -- House Minority Leader Hakeem Jeffries on Friday night abruptly scheduled an unusual weekend meeting with top Democratic colleagues as party anxiety festers over whether Joe Biden shoul… [+3024 chars]"
     }
   ]
 }
